@@ -1,0 +1,4 @@
+services:
+    structure.app.prueba.service:
+        class:  App\Application\Service\PruebaService
+        arguments:  ["@structure.app.prueba_repository"]

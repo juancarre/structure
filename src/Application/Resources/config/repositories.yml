@@ -1,0 +1,3 @@
+services:
+    structure.app.prueba_repository:
+          class: App\Infraestructure\Repository\PruebaRepository

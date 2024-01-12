@@ -1,0 +1,3 @@
+structure.prueba:
+    path:     /pruebas
+    controller: App\Controller
